@@ -1,0 +1,8 @@
+[submodule "themes/congo"]
+	path = themes/congo
+	url = https://github.com/jpanther/congo.git
+	branch = stable
+[submodule "public"]
+	path = public
+	url = https://github.com/SafwanLjd/LinuxSocietySite.git
+	branch = stable

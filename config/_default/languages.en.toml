@@ -1,0 +1,12 @@
+languageCode = "en"
+languageName = "English"
+displayName = "🇬🇧"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Linux Society"
+description = "The official website for the Linux Society at the University of Jordan."
+copyright = "CC-BY-SA 3.0"
+
+dateFormat = "2 January 2006"

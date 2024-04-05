@@ -1,0 +1,12 @@
+languageCode = "ar"
+languageName = "Arabic"
+displayName = "🇯🇴"
+isoCode = "ar"
+weight = 2
+rtl = true
+
+title = "مجتمع لينكس"
+description = "الموقع الإلكتروني الرسمي لمجتمع لينكس بالجامعة الأردنية"
+copyright = "CC-BY-SA 3.0"
+
+dateFormat = "2 January 2006"

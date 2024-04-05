@@ -1,0 +1,61 @@
+{{ if .Params.showAuthor | default (.Site.Params.article.showAuthor | default true) }}
+
+	<div class="flex">
+		{{ $author := index .Site.Data.authors (.Site.Language | string) (.Params.author | default "default") }}
+		
+		{{ with $author.image }}
+			{{ $authorImage := resources.Get . }}
+			{{ if $authorImage }}
+				{{ $authorImage := $authorImage.Fill "192x192" }}
+					<img
+						class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4"
+						width="96"
+						height="96"
+						alt="{{ $author.name | default "Author" }}"
+						src="{{ $authorImage.RelPermalink }}"
+					/>
+			{{ end }}
+		{{ end }}
+
+		<div class="place-self-center">
+			{{ with $author.name | markdownify | emojify }}
+				<div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
+					{{ i18n "author.byline_title" | markdownify | emojify }}
+				</div>
+			
+				<div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
+					{{ . }}
+				</div>
+			{{ end }}
+			
+			
+			{{ with $author.bio | markdownify | emojify }}
+				<div class="text-sm text-neutral-700 dark:text-neutral-400">
+					{{ . }}
+				</div>
+			{{ end }}
+			
+			
+			<div class="text-2xl sm:text-lg">
+				{{ with $author.links }}
+					<div class="flex flex-wrap text-neutral-400 dark:text-neutral-500">
+						{{ range $links := . }}
+							{{ range $name, $url := $links }}
+								<a
+									class="px-1 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400"
+									style="will-change:transform;"
+									href="{{ $url | safeURL }}"
+									target="_blank"
+									aria-label="{{ $name | title }}"
+									rel="me noopener noreferrer"
+								>{{ partial "icon.html" $name }}</a>
+							{{ end }}
+						{{ end }}
+					</div>
+				{{ end }}
+			</div>
+
+		</div>
+	</div>
+
+{{ end }}

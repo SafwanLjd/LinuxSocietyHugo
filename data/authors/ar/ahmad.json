@@ -1,0 +1,11 @@
+{
+  "name": "أحمد حمّاد",
+  "image": "img/ahmad.jpg",
+  "headline": "طالب @ الجامعة الأردنية",
+  "bio": "عضو مبكر في مجتمع لينكس ومستخدم فخور لنظام تشغيل غنو+لينكس.",
+  "links": [
+    { "email": "mailto:ahm0212990@ju.edu.jo" },
+    { "facebook": "https://web.facebook.com/profile.php?id=100094380201288" },
+    { "linkedin": "https://www.linkedin.com/in/ahmad-hammad-b5719429b/" }
+  ]
+}

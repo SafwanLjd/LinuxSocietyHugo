@@ -1,0 +1,11 @@
+{
+  "name": "Ahmad Hammad",
+  "image": "img/ahmad.jpg",
+  "headline": "Student @ JU",
+  "bio": "An early member of the Linux Society and a proud GNU+Linux user.",
+  "links": [
+    { "email": "mailto:ahm0212990@ju.edu.jo" },
+    { "facebook": "https://web.facebook.com/profile.php?id=100094380201288" },
+    { "linkedin": "https://www.linkedin.com/in/ahmad-hammad-b5719429b/" }
+  ]
+}
