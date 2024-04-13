@@ -1,0 +1,9 @@
+{
+  "name": "محمد سلامة",
+  "image": "img/anon.jpg",
+  "headline": "طالب @ الجامعة الأردنية",
+  "bio": "عضو مؤسس لمجتمع لينكس، وشخص خصوصي جدًا.",
+  "links": [
+    { "linkedin": "https://www.linkedin.com/in/mohammad-salameh-346a35200/" }
+  ]
+}
