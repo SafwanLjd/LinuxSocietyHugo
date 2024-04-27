@@ -1,0 +1,12 @@
+{
+  "name": "Omar Azizi",
+  "image": "img/omar.jpg",
+  "headline": "Student @ JU",
+  "bio": "One of the top GitHub contributors in Jordan, according to the Jordan Open-Source Association.",
+  "links": [
+    { "email": "mailto:oalazizi75@gmail.com" },
+    { "facebook": "https://web.facebook.com/profile.php?id=100049860102419" },
+    { "linkedin": "https://www.linkedin.com/in/omar-al-azizi-3521b3241/" },
+    { "github": "https://github.com/OmarAzizi" }
+  ]
+}

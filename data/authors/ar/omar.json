@@ -1,0 +1,12 @@
+{
+  "name": "عمر عزيزي",
+  "image": "img/omar.jpg",
+  "headline": "طالب @ الجامعة الأردنية",
+  "bio": "أحد أهم المساهمين في GitHub في الأردن، وفقًا للجمعية الأردنية للمصدر المفتوح.",
+  "links": [
+    { "email": "mailto:oalazizi75@gmail.com" },
+    { "facebook": "https://web.facebook.com/profile.php?id=100049860102419" },
+    { "linkedin": "https://www.linkedin.com/in/omar-al-azizi-3521b3241/" },
+    { "github": "https://github.com/OmarAzizi" }
+  ]
+}
