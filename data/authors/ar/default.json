@@ -1,1 +1,11 @@
-safwan.json
+{
+  "name": "صفوان الجدي",
+  "image": "img/safwan.jpg",
+  "headline": "طالب @ الجامعة الأردنية",
+  "bio": "المؤسس والقائد السابق لمجتمع لينكس.",
+  "links": [
+    { "email": "mailto:eljadi@ieee.org" },
+    { "facebook": "https://facebook.com/safwan.fb" },
+    { "linkedin": "https://linkedin.com/in/safwan-eljadi" }
+  ]
+}

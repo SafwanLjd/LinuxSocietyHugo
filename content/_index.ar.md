@@ -14,7 +14,7 @@ draft: false
 {{< /lead >}}
 
 <center>
-{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSdl8mhHDealSm3HAYIOsS-QfNcHsKwNXR7_VubyNC3jhLpsjw/viewform?usp=sf_link" target="_balnk" >}}
+{{< button href="https://linuxsociety.notion.site/1b0dc2525d828139b78ee3680f024d7e" target="_balnk" >}}
 انضم إلى فريقنا
 {{< /button >}}
 

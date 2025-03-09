@@ -1,1 +1,11 @@
-safwan.json
+{
+  "name": "Safwan Eljadi",
+  "image": "img/safwan.jpg",
+  "headline": "Student @ JU",
+  "bio": "The founder and ex-chairperson of the Linux Society.",
+  "links": [
+    { "email": "mailto:eljadi@ieee.org" },
+    { "facebook": "https://facebook.com/safwan.fb" },
+    { "linkedin": "https://linkedin.com/in/safwan-eljadi" }
+  ]
+}
