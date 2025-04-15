@@ -37,7 +37,7 @@ author: ahmad
 * [Automating the Boring Stuff with Python](https://automatetheboringstuff.com)
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 
-كذلك توفر بعض المواقع الإلكترونية مجموعات من الكتب التعليمية المفتوحة، مثل [Open Textbook Library](https://open.umn.edu/opentextbooks/) المدعومة من جامعة منيسوتا والتي توفر مكتبة كبيرة من الكتب في مختلف المجالات كالطب والقانون وتكنولوجيا المعلومات؛ وأيضًا [LibreTextx Mathematics](https://math.libretexts.org/) التي تقدم قائمة من كتب الرياضيات المفتوحة.
+كذلك توفر بعض المواقع الإلكترونية مجموعات من الكتب التعليمية المفتوحة، مثل [Open Textbook Library](https://open.umn.edu/opentextbooks/) المدعومة من جامعة منيسوتا والتي توفر مكتبة كبيرة من الكتب في مختلف المجالات كالطب والقانون وتكنولوجيا المعلومات؛ وأيضًا [LibreTexts Mathematics](https://math.libretexts.org/) التي تقدم قائمة من كتب الرياضيات المفتوحة.
 
 في الختام،نذكر بأن مفهوما المعرفة المفتوحة والانفتاح واسعان ولم نذكر عنهما سوى القليل هنا. لذلك نوصي المهتمين في هذا الموضوع بالقيام بمزيد من البحث والمطالعة وأن يساعدوا في هذا المجال بنشر ما ينتجونه من معرفة بشكل مفتوح للعامة، أملًا في المساهمة في نشر المعرفة المفتوحة
 

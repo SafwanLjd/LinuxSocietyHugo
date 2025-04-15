@@ -48,7 +48,7 @@ As for open textbooks, some authors publish their books online to the public dom
 * [Automating the Boring Stuff with Python](https://automatetheboringstuff.com)
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 
-Some websites offer a collection of open textbooks such as the [Open Textbook Library](https://open.umn.edu/opentextbooks/), sponsored by the University of Minnesota, which provides a huge library of open textbooks in different fields such as medicine, law, and computer science; and [LibreTextx Mathematics](https://math.libretexts.org/) which offers a huge library of open mathematics textbooks.
+Some websites offer a collection of open textbooks such as the [Open Textbook Library](https://open.umn.edu/opentextbooks/), sponsored by the University of Minnesota, which provides a huge library of open textbooks in different fields such as medicine, law, and computer science; and [LibreTexts Mathematics](https://math.libretexts.org/) which offers a huge library of open mathematics textbooks.
 
 In conclusion, the concepts of open knowledge and openness are huge and broad ones, and here we barely manage to scratch the surface. We strongly recommend those interested to carry out more research and to help contribute to open knowledge by sharing knowledge and content openly and freely for the public domain.
 
